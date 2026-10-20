@@ -4,21 +4,21 @@
   </a>
 </p>
 
-### MAIN LANGUAGES
+### Main Languages
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
 <br>
 -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
-## IMPORTANT DETAILS                          
-☘ Desktop applications enthusiast
-☘ I like colour green
-☘ My undergraduate final year project was a full data infraestructure system focused on neuropsyquiatric data.
+## Important Details                      
+- Desktop applications enthusiast
+- I like colour green
+- My undergraduate final year project was a full data infraestructure system focused on neuropsyquiatric data.
 
 <table>
 <tr>
-  <th width="20%">Área</th>
-  <th>Tecnologías</th>
+  <th width="20%">Field</th>
+  <th>Technologies</th>
 </tr>
 <tr>
   <td><b> Frontend</b></td>
@@ -96,7 +96,8 @@
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=N4tth&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
--_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
 <p align="center">
   <b>Fav public repositories</b>
   <ul>
